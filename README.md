@@ -6,7 +6,7 @@
 
 <p>
 
-[![Juejin](https://img.shields.io/badge/juejin-1e80ff?logo=bytedance)](https://juejin.cn/user/2225067263270557)
+[![Juejin](https://img.shields.io/badge/juejin-bestvist-1e80ff?logo=bytedance)](https://juejin.cn/user/2225067263270557)
 [![Github Stars](https://img.shields.io/github/stars/bestvist?color=faf408&label=github%20stars&logo=github)](https://github.com/bestvist)
 
 </p>
@@ -70,10 +70,9 @@ I love Front End technologys. :heart:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestvist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestvist&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestvist&show_icons=true&bg_color=30,e96443,1bd3e7&title_color=fff&text_color=fff)
 
 ![](https://github-profile-trophy.vercel.app/?username=bestvist&theme=flat&column=7&margin-w=10)
 
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=57290456)
