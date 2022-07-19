@@ -1,7 +1,5 @@
 <div align=center>
 
-<img alt="bestvist" src="./assets/avatar.png" width=100 />
-
 # Hi, this is Vist Sun :wave:
 
 <p>
